@@ -1,0 +1,21 @@
+.formTop {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.externallogin {
+    display: flex;
+    align-items: center;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: bold;
+    flex: 1;
+    border: 1px solid lightgrey;
+}
+
+.formtopwrapper {
+    max-width: 350px;
+    margin: 0 auto;
+    display: flex;
+}
